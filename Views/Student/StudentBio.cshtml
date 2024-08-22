@@ -1,0 +1,37 @@
+﻿@model IEnumerable<dotNet_MVC.Models.StudentCourse>
+
+@{
+    ViewData["Title"] = "StudentBio";
+}
+
+<h1>StudentBio</h1><br />
+
+<form>
+    <div class="col-mb-3">
+        <label for="exampleInputEmail1" class="form-label">Student Name</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="StudentName">
+  
+    </div>
+
+    <div class="col-md-3">
+        <label for="validationCustom04" class="form-label">Course Title</label>
+        <select class="form-select" id="validationCustom04" required>
+            <option selected disabled value="">Msc in Advance Computer Science </option>
+           
+            
+        </select>
+        <div class="invalid-feedback">
+            Please select a valid state.
+        </div>
+
+
+    </div>
+    <div class="col-mb-3">
+        <label for="exampleInputEmail1" class="form-label">Course Code</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="CourseCode">
+
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

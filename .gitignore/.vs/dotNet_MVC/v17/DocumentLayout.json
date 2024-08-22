@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\views\\student\\studentbio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:views\\student\\studentbio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\migrations\\20240818114420_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:migrations\\20240818114420_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|c:\\users\\aviyaan\\desktop\\c#_practice\\dotnet_mvc\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A0DE08-A765-476B-978E-080BF8FA3BA7}|dotNet_MVC.csproj|solutionrelative:migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:00:22.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:00:12.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:57:12.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "Views\\Course\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T08:56:11.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T10:45:40.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentBio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Student\\StudentBio.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\StudentBio.cshtml",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Student\\StudentBio.cshtml",
+              "RelativeToolTip": "Views\\Student\\StudentBio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T10:42:40.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Course\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:07:59.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Views\\Course\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T07:26:38.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T06:50:29.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:43:00.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:39:08.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240818114420_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Migrations\\20240818114420_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240818114420_Init.cs",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Migrations\\20240818114420_Init.cs",
+              "RelativeToolTip": "Migrations\\20240818114420_Init.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwFEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:37:00.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\Aviyaan\\Desktop\\C#_Practice\\dotNet_MVC\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "Models\\StudentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:15:16.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
